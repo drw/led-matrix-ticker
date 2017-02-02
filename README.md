@@ -1,12 +1,12 @@
 # LED Matrix Text Ticker
 
 ## Enable SPI
-Step aken from https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial. Refer to there for more information.
+Step taken from https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial. Refer to there for more information.
 
 1. Run `sudo raspi-config`.  
 2. Use the down arrow to select `Advanced Options`  
 3. Arrow down to `SPI`.  
-4. Select `ye`s when it asks you to enable SPI,  
+4. Select `yes` when it asks you to enable SPI,  
 5. Also select yes when it asks about automatically loading the kernel module.  
 6. Use the right arrow to select the `<Finish>` button.  
 7. Select `yes` when it asks to reboot.  
